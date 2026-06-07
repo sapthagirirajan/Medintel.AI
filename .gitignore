@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production Build
+dist/
+dist-ssr/
+build/
+
+# Miscellaneous
+.DS_Store
+*.pem
+~$*
+
+# Local History
+.history/
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.suo
+*.ntvsca*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.local
+
+# Large Dataset files
+Dataset/
+scratch/
+dist/
+dist-ssr/
+build/
